@@ -1,0 +1,29 @@
+body {
+  font-family : "arial";
+  background-color : #f1f1f1;
+}
+
+h1 {
+  font-weight : 500;
+  letter-spacing : 0.7px;
+  word-spacing : 1px;
+}
+
+h5 {
+  font-weight : 100;
+  letter-spacing : 0.7px;
+  word-spacing : 2px;
+  font-size : 15px;
+  text-transform : uppercase;
+}
+
+#imgContainer, 
+#imgFilContainer {
+  width : 400px;
+  height : auto;
+  border : 1px solid;
+}
+
+input {
+  margin-left : 1px;
+}
